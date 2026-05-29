@@ -15,12 +15,9 @@ twitter_username: https://x.com/StoryTeller_97
 contact_note: >
   The best way to reach me is via email: <a href="mailto:sutirthamukherjee1@gmail.com">sutirthamukherjee1@gmail.com</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  ML Researcher working on the following domains:
-  Continual Learning and Interpretable architectures in Vision,
-  Network Pruning Analysis, JEPA based World Models,
-  Long Time Seires Forecasting, Medical Imaging Analysis 
-
-footer_text: >
+  ML Researcher interested in the domain of Continual Learning and Interpretability.
+  Have worked as a MLE at a healthcare startup and as a research intern at Jadavpur University. 
+  I have produced research works in the field of Applied Computer Vision and Long-Time Series Forecasting.
  footer_text: >
   © 2026 Sutirtha Mukherjee.
 
@@ -241,7 +238,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-
 # Sitemap settings
 defaults:
   - scope:
